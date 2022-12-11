@@ -1,7 +1,7 @@
 
 ![MERN Stack Developer | Full Stack Developer| Front End Developer(React)](https://i.ibb.co/MgyBYLD/banner-ashiq.png)
 
-<hr>
+<hr/>
 # Hi there 👋, I'm Ashiqul Islam Shabu
 ## MERN Stack Developer | Full Stack Developer| Front End Developer(React)
 
