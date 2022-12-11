@@ -1,7 +1,9 @@
 
 ![MERN Stack Developer | Full Stack Developer| Front End Developer(React)](https://i.ibb.co/MgyBYLD/banner-ashiq.png)
-### Hi there 👋, I'm Ashiqul Islam Shabu
-#### MERN Stack Developer | Full Stack Developer| Front End Developer(React)
+
+<hr>
+# Hi there 👋, I'm Ashiqul Islam Shabu
+## MERN Stack Developer | Full Stack Developer| Front End Developer(React)
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
