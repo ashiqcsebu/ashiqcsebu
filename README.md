@@ -3,7 +3,7 @@
 
 <hr/>
 <div>
-<h1 className="text-center"> Hi there 👋, I'm Ashiqul Islam Shabu </h1>
+<h1 class="text-center"> Hi there 👋, I'm Ashiqul Islam Shabu </h1>
 <h2> MERN Stack Developer | Full Stack Developer| Front End Developer(React) </h2>
  </div>
  
