@@ -29,7 +29,7 @@ Skills: React.js /Node.js / Express.js/ MongoDB / JavaScript / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqcsebu&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashiqcsebu)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/ashiqcsebu)  
 
