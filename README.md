@@ -4,7 +4,7 @@
 <hr/>
 <h1 className="text-justify"> Hi there 👋, I'm Ashiqul Islam Shabu </h1>
 <br/>
-## MERN Stack Developer | Full Stack Developer| Front End Developer(React)
+<h2> MERN Stack Developer | Full Stack Developer| Front End Developer(React) </h2>
 
 <hr className='mb-4 opacity-5' />
               <p className='mb-8 text-justify'>
