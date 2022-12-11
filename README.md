@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Ashiqul Islam Shabu
 #### MERN Stack Developer | Full Stack Developer| Front End Developer(React)
 
-<div align="center">
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: React.js /Node.js / Express.js/ MongoDB / JavaScript / HTML / CSS
@@ -11,6 +11,7 @@ Skills: React.js /Node.js / Express.js/ MongoDB / JavaScript / HTML / CSS
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Node.js  / Express.js / MongoDB / Redux / Next.js / AWS 
 
+<div align="center">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashiqcsebu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashiq-cse-bu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashiq.cse.bu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashiqul-islam-shabu.netlify.app/)  
 
