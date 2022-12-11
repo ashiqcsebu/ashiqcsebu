@@ -4,13 +4,12 @@
 <hr/>
 ### Hi there 👋, I'm Ashiqul Islam Shabu
 #### MERN Stack Developer | Full Stack Developer| Front End Developer(React)
+<hr/>
 
-
-           I'm graduated from the University of Barisal with a degree of BSc in Computer Science and Engineering in 2019. My current interests are in front-end development, and I enjoy using React JS to create beautiful and performant products with delightful user experiences.I refer to myself as a "passionate front-end developer" who loves coding and web platforms.<br />
-            
+      <p> I'm graduated from the University of Barisal with a degree of BSc in Computer Science and Engineering in 2019. My current interests are in front-end development, and I enjoy using React JS to create beautiful and performant products with delightful user experiences.I refer to myself as a "passionate front-end developer" who loves coding and web platforms.<br />     
          I’ve developed several full-stack web projects using MERN Stack technologies.I have intermediate-level knowledge of back-end technologies.In the near future, I’m looking forward to being a full-stack web developer.
               
-
+<p/>
 
 Skills: React.js /Node.js / Express.js/ MongoDB / JavaScript / HTML / CSS
 
