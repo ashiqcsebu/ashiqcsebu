@@ -3,6 +3,7 @@
 
 <hr/>
 ### Hi there 👋, I'm Ashiqul Islam Shabu
+<hr/>
 #### MERN Stack Developer | Full Stack Developer| Front End Developer(React)
 
 <hr className='mb-4 opacity-5' />
