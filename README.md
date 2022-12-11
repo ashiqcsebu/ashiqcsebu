@@ -8,7 +8,7 @@
  </div>
  
 <hr className='mb-4 opacity-5' />
-              <p className='mb-8 text-justify jusity-center'>
+              <p className='mb-8 text-justify ' style="text-align: justify">
               Greetings!! I'm Ashiq, a fresh graduate from the University of Barisal with a degree of BSc in Computer Science and Engineering who graduated in 2019. My current interests are in front-end development, and I enjoy using React JS to create beautiful and performant products with delightful user experiences.I refer to myself as a "passionate front-end developer" who loves coding and web platforms.
                 <br />
               I’ve developed several full-stack web projects also using MERN Stack technologies.I have intermediate-level knowledge of back-end technologies.In the near future, I’m looking forward to being a full-stack web developer.
