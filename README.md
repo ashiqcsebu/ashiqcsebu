@@ -3,6 +3,7 @@
 ### Hi there 👋, I'm Ashiqul Islam Shabu
 #### MERN Stack Developer | Full Stack Developer| Front End Developer(React)
 
+<div align="center">
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: React.js /Node.js / Express.js/ MongoDB / JavaScript / HTML / CSS
@@ -26,4 +27,6 @@ Skills: React.js /Node.js / Express.js/ MongoDB / JavaScript / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/ashiqcsebu)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ashiqcsebu)  
+  
+  </div>
 
