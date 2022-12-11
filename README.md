@@ -1,7 +1,8 @@
-(https://i.ibb.co/K5Rz59b/Banner1.gif)
+https://i.ibb.co/K5Rz59b/Banner1.gif
+
 ### Hi there 👋, I'm Ashiqul Islam Shabu
 #### MERN Stack Developer | Full Stack Developer| Front End Developer(React)
-![MERN Stack Developer | Full Stack Developer| Front End Developer(React)](https://i.ibb.co/K5Rz59b/Banner1.gif)
+![MERN Stack Developer | Full Stack Developer| Front End Developer(React)])
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
